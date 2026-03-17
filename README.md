@@ -24,7 +24,7 @@ These case studies showcase practical security investigations and defensive impr
 - Risk scoring and remediation planning  
 - Compliance alignment with frameworks such as NIST and ISO 27001  
 
-Each project includes the challenge, investigative approach, measurable results, and security-focused recommendations.
+Each project includes the challenge, investigative approach, measurable results, and security focused recommendations.
 
 ---
 
@@ -35,4 +35,4 @@ Each project includes the challenge, investigative approach, measurable results,
 - Detection gap analysis  
 - Risk assessment and control evaluation  
 - Security awareness programme improvement  
-- Adversary-informed defensive strategy  
+- Adversary informed defensive strategy  
