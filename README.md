@@ -1,4 +1,4 @@
-# Security Operations Analyst Case Studies
+# Security Operations Case Studies
 
 This repository contains case studies demonstrating security operations, threat simulation, and incident response practices.
 
