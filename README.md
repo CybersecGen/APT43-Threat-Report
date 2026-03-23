@@ -48,8 +48,8 @@ An adversary-style assessment was conducted to evaluate prevention, detection, a
 
 - Deploy advanced Endpoint Detection & Response (EDR) solutions  
 - Enforce least-privilege access and multi-factor authentication  
-- Conduct regular role-based security training  
-- Perform recurring adversary-led assessments and phishing exercises  
+- Conduct regular role based security training  
+- Perform recurring adversary led assessments and phishing exercises  
 - Update risk assessments biannually using threat intelligence  
 
 ---
