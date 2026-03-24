@@ -1,4 +1,4 @@
-# APT34 Analysis & Risk Assessment  
+# APT34 Threat Analysis & Risk Assessment  
 **Technology Firm**
 
 ---
