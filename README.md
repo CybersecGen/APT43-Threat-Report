@@ -1,4 +1,4 @@
-# APT34 Threat Analysis & SOC Simulation
+# APT34 Threat Analysis
 
 **Organization:** Technology Firm  
 **Project Type:** SOC Simulation / Threat Analysis  
